@@ -83,7 +83,7 @@ var cnItems = {
     "Secret get!": "秘密获得！",
     "Show the construction vector in green (what each Cn does)": "以绿色显示构造向量（每个 Cn 的作用）",
     "Skill Tree": "技能树",
-    "So, that wasn't how stuff were supposed to happen, but here is a link to the discord server of the game :": "所以，这不是事情应该发生的方式，但这里是游戏不和谐服务器的链接：",
+    "So, that wasn't how stuff were supposed to happen, but here is a link to the discord server of the game :": "所以，这不是事情应该发生的方式，但这里是游戏discord服务器的链接：",
     "Soft Reset": "软重置",
     "Increase distance multiplier": "增加距离乘数",
     "Increase the distance multiplier": "增加距离乘数",
